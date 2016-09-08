@@ -1,6 +1,6 @@
 ---
 title: Conveying Meaning through Color
-chapter: Designers
+chapter: Design Principles
 style: |
   figcaption {
     text-align: center;

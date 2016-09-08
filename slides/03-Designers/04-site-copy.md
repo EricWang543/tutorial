@@ -1,6 +1,6 @@
 ---
 title: Copy Writing
-chapter: Designers
+chapter: Design Principles
 ---
 The content you write for your website or application matters a great deal for 
 its usability and accessibility. The Web Content Accessibility Guidelines 
